@@ -1,3 +1,4 @@
 discord.py==2.3.2
 supabase==2.4.2
 python-dotenv==1.0.1   # optional – lets you use a .env file in development
+audioop-lts==0.2.1
